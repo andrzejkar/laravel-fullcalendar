@@ -9,7 +9,7 @@
 <li>...and more ...in the future</li>
 </ul>
 
-<img src="https://github.com/andrzejkar/fullcalendar-laravel/blob/main/public/app.png?raw=true" width="480px">
+<img src="https://raw.githubusercontent.com/andrzejkar/andrzejkar.github.io/main/fc_l_b.png" width="480px">
 
 1. Install Laravel
 2. Clone this repository
