@@ -69,10 +69,6 @@
                         let start = moment(info.event.start).format("YYYY-MM-DD HH:mm:ss");
                         let end = moment(info.event.end).format("YYYY-MM-DD HH:mm:ss");
 
-                        // console.log(start);
-                        // console.log(end);
-                        // console.log(info.event.allDay);
-
                         $.ajax({
                             url: "{{ route('calendar.ajax') }}",
                             data: {
